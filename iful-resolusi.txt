@@ -1,0 +1,5 @@
+IFUL RESOLUSI
+- harus mahir daam menggunakan CSS(max 2 bulan, januari-februari akhir)
+- Konsisten dalam belajar PHP hingga betul" paham(max 3-5 bulan, maret-juli akhir)
+- Belajar CODEIGNITER 4(max 1-2 bulan, agustus-oktober)
+- memahami Konsep OOP (2 bulan, november-desember)
